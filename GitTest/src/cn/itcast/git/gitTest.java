@@ -10,5 +10,8 @@ public class gitTest {
         //我看看好使不，
         //滴滴滴
         System.out.println("lll");
+        int a = 1;
+        int b = 2;
+
     }
 }
