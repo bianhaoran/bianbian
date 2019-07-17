@@ -14,5 +14,6 @@ public class gitTest {
         int b = 2;
         //请你叫我这样做，我就跟你这样做
         //红果果绿泡泡
+        double n = 77.2;
     }
 }
